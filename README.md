@@ -37,15 +37,17 @@
 
 #
 
+### Currently looking for career opportunities. Reach out to me on:
+[<a href="https://www.linkedin.com/in/kangjay88/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>]()
+
+#
+
 <details>
  <summary><h3>👨‍💻 Jay's Coding Journey</h3></summary>
   My passion in technology began with our lab’s dedication to decrease veteran’s healthcare costs, while increasing their quality of care. At the VA,  I gained experience in managing and analyzing medical data, presenting affordable, accurate testing methods to providers. From there, my desire to learn more technology grew, and I started to study computer programming. It led me to completing a comprehensive bootcamp, where I gained a variety of experiences in Python, JavaScript, Java, SQL, REST APIs, etc. <br>
   My experience in managing and analyzing medical data at the VA, coupled with my comprehensive coding bootcamp training, has equipped me with the skills to make a valuable contribution to your team. I am a self-starter, passionate about using my technical expertise to make a positive impact.
 
-#
- 
-#### Currently looking for career opportunities. Reach out to me on:
-[<a href="https://www.linkedin.com/in/kangjay88/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>]()
+
 
 <!--
 **kangjay88/kangjay88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
